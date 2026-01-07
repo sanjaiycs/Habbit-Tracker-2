@@ -39,8 +39,8 @@ A modern, minimalist habit tracking application built with **Flutter**. This app
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/yourusername/habit-tracker-glass.git](https://github.com/yourusername/habit-tracker-glass.git)
-    cd habit-tracker-glass
+    git clone [https://github.com/sanjaiycs/Habit-Tracker-2.git]
+    cd Habit-Tracker-2
     ```
 
 2.  **Install dependencies**:
